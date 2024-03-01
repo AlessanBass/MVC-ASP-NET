@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\bia\\projetos\\MVC\\MvcMovie\\MvcMovie.db",
+            "name": "teste"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
